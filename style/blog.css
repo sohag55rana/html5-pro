@@ -1,0 +1,13 @@
+video{
+    width: 300px;
+    border: 5px solid tomato;
+    display: block;
+    margin: 10px;
+    padding: 10px;
+}
+audio{
+    display: block;
+    border: 5px solid tomato;
+    margin: 10px;
+    padding: 10px;
+}
