@@ -1,13 +1,34 @@
 video{
-    width: 300px;
+    /* width: 300px; */
     border: 5px solid tomato;
     display: block;
     margin: 10px;
     padding: 10px;
+    width: 320px;
+    height: 240px;
 }
 audio{
     display: block;
     border: 5px solid tomato;
     margin: 10px;
     padding: 10px;
+    
+}
+iframe{
+    width: 320;
+    height: 240;
+}
+nav > ul > li {
+    display: inline;
+    margin-right: 15px;
+}
+nav li > a{
+    text-decoration: none;
+}
+footer{
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: 200px;
 }
